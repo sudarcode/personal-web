@@ -5,12 +5,13 @@ date: 2026-03-28T02:12:40+08:00
 lang: id
 keywords: Astrojs, Hugo, Template, Varcel
 
-image: /images/akhirnya-naik-legend/cover.png
+image: /images/astro/browser.png
 
-description: "Membuat Blog di Varcel"
+description: "Cara Membuat Blog di Varcel"
 ---
 
 Platfrom ngeblog tidak hanya blogger dan wordpress melainkan ada beberapa banyak yang lebih instan dan tentu nya open source. 
+
 
 Apabila menggunakan di blogger hanya itu aja dan tidak bisa open source, hanya dapat mengelola tulisan dan edit template aja, sedangkan dari wordpress kalian harus sewa hosting dan tentu nya harus backup sewaktu - waktu suatu saat blog tersebut kena hack dan lainnya, karena di wordpress self host ini kita di tuntut untuk standbye jika blog kita kena serangan dari hacker. 
 
@@ -19,7 +20,7 @@ Hosting di indonesia sekarang juga mahal - mahal walaupun ada yang murah terkada
 Nah karena hal itu saya memilih untuk memindah blog di Astro.js selain mudah di pahami Astro.js ini memiliki banyak sekali keunggunalan. 
 
 ## Apa itu Astro.js
-
+{{< images src="/images/astro/astro.png" alt="Astro.js" >}}
 Astro JS adalah framework web JavaScript modern yang dirancang khusus untuk membangun situs web berbasis konten yang sangat cepat, seperti blog, portofolio, dan e-commerce. Dengan pendekatan server-first dan arsitektur Island, Astro merender situs menjadi HTML statis ringan, hanya memuat JavaScript untuk komponen interaktif saja, menghasilkan performa SEO yang optimal. 
 
 Berikut adalah poin-poin penting mengenai Astro JS:
