@@ -5,7 +5,7 @@ date: 2026-02-25T01:12:40+08:00
 lang: id
 keywords: Astrojs, Hugo, Template
 
-image: /images/akhirnya-naik-legend/cover.png
+image: /images/astro/astro.png
 
 description: "Belajar Hugo dan Astrojs"
 ---
