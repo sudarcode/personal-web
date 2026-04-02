@@ -22,13 +22,15 @@ Sedangkan untuk hosting saya gunakan Cloudflare Page yang mana speed loadingnya 
 Beda kalau menggunakan hosting harus bayar bulanan dan ditambah lagi harus terus stand bye karena sewaktu di masuki hacker yang promosikan akun judol.
 
 ## Apa itu Astro? 
-![Astro.js](@/assets/images/astro/astrojs.png)
+
+{{< images src="/images/astro/astro.png" alt="Astro Bluid" >}}
 
 Astro adalah Sebuah Framwork yang dirancang untuk membuat website dengan cepat, dengan konsep islands architecture. Dengan arsitektur ini, Astro cuma nge-load JavaScript kalau memang dibutuhkan. Jadi, halaman website kamu tetap ringan dan nggak bikin lemot.
 
 Astro mengutamakan static site generation (SSG), tapi tetap bisa interaktif dengan integrasi framework seperti React, Vue, Svelte, hingga Solid.js. Fleksibel banget!
 
 ## Kenapa Saya Memilih Astro? 
+{{< images src="/images/blogger/blogger.png" alt="Astro Bluid" >}}
 Pada waktu lalu saya menggunakan Hugo sekarang saya memilih pindah ke Astro.js ini tentu ada beberapa keunggulan Astro ini :
 
 1. Perfoma Super Cepat : Karena Astro ini hanya mengirim HTML dan CSS tanpa ada nya Javascript jadi membuat loading website anda akan lebih cepat
