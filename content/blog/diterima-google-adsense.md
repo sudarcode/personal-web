@@ -5,7 +5,7 @@ date: 2024-04-29T19:12:40+08:00
 lang: id
 keywords: Google Adsense, Blogger, Wordpress, Hugo
 
-image: /images/astro/browser.png
+image: /images/adsense/adsense.png
 
 description: "Cara Mendaftar Google Adsense 99% Pasti di Terima"
 ---
