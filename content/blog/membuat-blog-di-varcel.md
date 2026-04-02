@@ -35,7 +35,7 @@ Berikut adalah poin-poin penting mengenai Astro JS:
 Mungkin dari kalian yang mengerti mengenai HTML, CSS dan Javascript mungkin bisa membuat template sesuka hati menggunakan Astro.js ini dengan hosting di Varcel atau Cloudflare, Apa itu Varcel berikut ini penjelasan nya. 
 
 ## Apa itu Varcel App
-{{< images src="/images/varcel/varcel.png" alt="Varcel Bluid" >}}
+{{< images src="/images/varcel/vercel.png" alt="Varcel Bluid" >}}
 Vercel adalah platform cloud terkemuka untuk hosting dan deployment frontend serta aplikasi serverless secara cepat dan efisien. Dirancang untuk pengembang modern, Vercel memungkinkan deploy otomatis langsung dari GitHub/GitLab/Bitbucket, didukung fitur Preview Deployment dan Automatic HTTPS. Vercel juga optimal untuk React, Next.js, dan AI SDK. 
 
 Berikut adalah detail mengenai Vercel App:
