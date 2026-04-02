@@ -10,13 +10,16 @@ image: /images/astro/browser.png
 description: "Cara Mendaftar Google Adsense 99% Pasti di Terima"
 ---
 
-Google Adsense - Judulnya sepertinya lebay banget ya kaya seperti portal berita jaman sekarang alay nya tidak karuan 🤣. 
+**Google Adsense** - Judulnya sepertinya lebay banget ya kaya seperti portal berita jaman sekarang alay nya tidak karuan 🤣. 
 
 Tapi sebelum itu kalian jangan skip halaman postingan ini dulu ya, karena saya akan bongkar tips dan trik dimana bisa di terima oleh Google Adsense. 
 
+
 Trik ini merupakan pengalaman saya pribadi dimana setelah di tolak 4 kali oleh Google Adsense dan yang ke 5 kali nya pun di terima oleh Google Adsense. 
 
+
 Itupun hanya membutuhkan waktu 1x24 jam langsung diterima oleh Google Adsense ini. 
+
 
 Ada banyak alasan yang menjadi faktor blog ini ditolak oleh Google Adsense seperti
 
@@ -24,7 +27,9 @@ Ada banyak alasan yang menjadi faktor blog ini ditolak oleh Google Adsense seper
 - Situs tidak mematuhi Pedoman Webmaster
 - Situs Terlalu Sedikit Konten
 - Konten Yang Memiliki Sedikit Informasi
-- Bah kan di blog saya tidak ada menggunakan navigasi seperti Policy Privacy, Disclaimer, TOS dan semacam itulah. Hanya menggunakan menu navigasi About sama FAQ saja kalian bisa cek nya yang ada di bawah blog ini. 
+
+
+Bah kan di blog saya tidak ada menggunakan navigasi seperti Policy Privacy, Disclaimer, TOS dan semacam itulah. Hanya menggunakan menu navigasi About sama FAQ saja kalian bisa cek nya yang ada di bawah blog ini. 
 
 Seperti hal nya artikel ini yang mana sudah banyak di bahas berulang - ulang oleh blog lain yang mana. 
 
@@ -76,7 +81,8 @@ Sebelum itu mari kita cek dulu apa aja syarat yang harus terpenuhi supaya di ter
 - Konten yang dibuat harus original atau bisa menggunakan pengalaman kamu seperti contoh artikel ini atau bisa baca blog kelayakan mendaftarkan google adsense
 - Blog mematuhi peraturan Google seperti tidak posting artikel pornografi, berbau teroris, konten hacking, dan tidak membahas tentang obat - obatan terlarang.
 - Anda harus umur 18 tahun ke atas agar bisa mendaftar ke Google Adsense ini kalau belum cukup umur bisa menggunakan KTP milik orang tua kalian.
-- Kamu juga bisa pelajari juga Syarat dan Ketentuan Google Adsense apabila masih ragu ingin mendaftarkan blog kamu. 
+
+Kamu juga bisa pelajari juga Syarat dan Ketentuan Google Adsense apabila masih ragu ingin mendaftarkan blog kamu. 
 
 ## Cara Menghubungkan Blog ke Google Adsense 
 
