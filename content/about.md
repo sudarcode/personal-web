@@ -6,15 +6,13 @@ menu: main
 draft: false
 type: website
 keywords: Linux, JavaScript, Go, Blog, Tech, Profile
-description: About page of Ahmad Habibi, An introduction
+description: About page of Sudarmanto, An introduction
 image: /cover/default.png
 ---
 
-**I am, Ahmad Rizky Nusantara Habibi**, from Lombok, Indonesia. Curious to many things to know how the world is working and very passionate in Computer Programming or Software Engineering.
-
-
+**I am, Sudarmanto**, Saya blogger asal lamongan yang hobi menulis serta habi membaca, blog ini adalah wadah saya untuk menulis karya atau review menarik yang pernah saya temui. 
 \
-I made this blog mainly aimed to be my personal reference as a learning proccess for new things I found interesting which might be useful to document from my own understanding. It feels so exciting if I can show my thoughts or anything else with this blog site that might be useful to others.
+Selain di dunia blogger saya juga aktif di media sosial dan gamers, kalau game sendiri saya lebih suka main mobile lagends yang mana game nya tidak membosankan. 
 
 ### What I'm doing now
 
