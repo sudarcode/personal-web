@@ -1,7 +1,7 @@
 ---
 title: "Coba Belajar Astro Bluid, Dan Hugo"
 draft: false
-date: 2026-02-25T00:12:15+08:00
+date: 2026-02-25T01:12:40+08:00
 lang: id
 keywords: Astrojs, Hugo, Template
 
