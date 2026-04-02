@@ -5,7 +5,7 @@ date: 2020-11-25T04:13:40+09:00
 lang: id
 keywords: Google Adsense, Domain, Blogger
 
-image: /images/akhirnya-naik-legend/cover.png
+image: /images/adsense/adsense.png
 
 description: "Belajar Hugo dan Astrojs"
 ---
