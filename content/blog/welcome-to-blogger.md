@@ -5,7 +5,7 @@ date: 2020-08-31T10:13:40+09:00
 lang: id
 keywords: Google Adsense, Domain, Blogger
 
-image: /images/akhirnya-naik-legend/cover.png
+image: /images/blogger/blogger.png
 
 description: "Membuat Blog lagi di Blogger"
 ---
