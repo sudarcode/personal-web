@@ -5,7 +5,7 @@ date: 2023-12-25T01:12:40+08:00
 lang: id
 keywords: Astrojs, Hugo, Template, Blogger
 
-image: /images/akhirnya-naik-legend/cover.png
+image: /images/blogger/blogger.png
 
 description: "Downloud Template Blogger Yztheme.my.id Free"
 ---
