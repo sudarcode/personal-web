@@ -50,11 +50,11 @@ Nah Varcel sendiri sama halnya cloudflare yang mana kalian bisa hosting disana s
 
 ## Cara Membuat Blog Dengan Hosting di Varcel
 
-1. Buka [Varcel](https://www.varcelcom) di browser milik kalian kemudian daftar akun kalian disana.
-2. Jika tidak ingin ribet tinggal aja hubungkan akun Gmail atau Akun Github milik kalian.
-3. Setelah itu maka akan di bawa ke Dashboard Varcel ini seperti ini.
+1. Buka [Varcel](https://www.varcelcom) di browser milik kalian kemudian daftar akun kalian disana.{{< images src="/images/varcel/varcel1.png" alt="Varcel Bluid" >}}
+2. Jika tidak ingin ribet tinggal aja hubungkan akun Gmail atau Akun Github milik kalian.{{< images src="/images/varcel/varcel2.png" alt="Varcel Bluid" >}}
+3. Setelah itu maka akan di bawa ke Dashboard Varcel ini seperti ini.{{< images src="/images/varcel/varcel3.png" alt="Varcel Bluid" >}}
 4. Kemudian untuk memulai kalian pilih tombol Add Project
-5. Setelah itu Pilih Repository yang mau kalian Import, karena mau memakai Astro jadi saya yang Repository yang nama nya sudar.
+5. Setelah itu Pilih Repository yang mau kalian Import, karena mau memakai Astro jadi saya yang Repository yang nama nya sudar.{{< images src="/images/varcel/varcel4.png" alt="Varcel Bluid" >}}
 6. Kemudian klik Diploy dan tunggu Prosesnya Hingga selesai.
 
 Gimana apa ada yang sulit dari tutorial ini? 
