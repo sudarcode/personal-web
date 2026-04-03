@@ -46,4 +46,17 @@ Berikut adalah detail mengenai Vercel App:
 4. Optimalisasi Gambar: Mengubah ukuran dan mengompresi gambar otomatis untuk mempercepat load times.
 5. Preview/Collaborative Deployment: Membuat URL unik untuk setiap branch atau push agar tim dapat meninjau hasil deploy sebelum rilis.
 
-Nah Varcel sendiri sama halnya cloudflare yang mana kalian bisa hosting disana serta bisa mengelola web misal nya menggunakan Astro.js ini untuk Deployment nya bisa di hubungkan di Github. 
+Nah Varcel sendiri sama halnya cloudflare yang mana kalian bisa hosting disana serta bisa mengelola web misal nya menggunakan Astro.js ini untuk Deployment nya bisa di hubungkan di Github.
+
+## Cara Membuat Blog Dengan Hosting di Varcel
+
+1. Buka [Varcel](https://www.varcelcom) di browser milik kalian kemudian daftar akun kalian disana.
+2. Jika tidak ingin ribet tinggal aja hubungkan akun Gmail atau Akun Github milik kalian.
+3. Setelah itu maka akan di bawa ke Dashboard Varcel ini seperti ini.
+4. Kemudian untuk memulai kalian pilih tombol Add Project
+5. Setelah itu Pilih Repository yang mau kalian Import, karena mau memakai Astro jadi saya yang Repository yang nama nya sudar.
+6. Kemudian klik Diploy dan tunggu Prosesnya Hingga selesai.
+
+Gimana apa ada yang sulit dari tutorial ini? 
+
+Langsung hubungi via Contact aja apabila masih kebingungan dengan tutorial ini. 
