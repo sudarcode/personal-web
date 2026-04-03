@@ -27,7 +27,7 @@ Baterai Tahan Lama
 
 Salah satu keunggulan utama Vivo Y19s adalah baterainya yang berkapasitas besar. Dengan sekali pengisian daya, pengguna dapat menggunakan ponsel ini dalam waktu yang lama tanpa perlu khawatir kehabisan daya. Fitur pengisian cepat juga turut mempercepat proses pengisian daya.
 
-Spesifikasi Singkat Vivo Y19s
+### Spesifikasi Singkat Vivo Y19s
 
 - Chipset: Unisoc Tiger T612.
 - RAM: 4GB/6GB
