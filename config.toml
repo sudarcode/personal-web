@@ -1,6 +1,6 @@
-baseURL = '/'
+baseURL = 'www.sudarblogger.web.id'
 languageCode = 'en-us'
-title = 'Sudar Jurnal Blog - Catatan Harian Sudarmanto'
+title = 'Blog Kang Sudar'
 theme = 'habitheme'
 relativeURLs = true
 enableRobotsTXT = false
